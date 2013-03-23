@@ -1,0 +1,62 @@
+This is a brain dump of what I did for putting on an 8 week afterschool Scratch programming class.  We had previously done a Logo programming class but had found the typing/syntax along with the lab environment was making it difficult for many kids to succeed.  We decided in early Fall 2012 to switch to Scratch.
+
+Three months before class:
+
+- Coordinate availability of parent volunteers.  We had 2 or 3 parents in class of 20-22.
+- Check school calendar for holidays
+- Reserve computer lab
+- Create and get approved registration form
+- Send out and process registration forms (this is most painful part!)
+- Meet with school IT group to install/ensure Scratch available
+- Understand how students will save projects.  Do not use flash drives!
+
+
+Class format was 5-10 minutes teacher intro, remaining time project time.
+
+Students came in with anywhere from no experience with programming to having done Scratch at summer camp or at home.
+
+Class 1:
+
+Intro to programming.  Demo of environment and some types of projects students will build.
+
+Project: Explore, do cat dance project
+
+Class 2:
+
+Project: Build a simple game
+
+Class 3:
+
+Introduce events to control game
+
+Project: Interactive quiz.  This was a popular project for kids to work.
+
+Class 4:
+
+Introduction to variables
+
+Project: 
+
+Class 5:
+
+Introduction to drawing (pen up / pen down)
+
+Project: Drawing game
+
+Class 6:
+
+Talked about "final project".
+
+Project: Maze game
+
+Class 7:
+
+Continued to work on projects or in-class handout
+
+Project: Basic race
+
+Class 8:
+
+Kids worked on handout or their final projects
+
+Project: Advanced race
